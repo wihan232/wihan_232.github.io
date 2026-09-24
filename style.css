@@ -1,0 +1,30 @@
+
+body {
+    background-color: #6d8ce1;
+
+    
+}
+
+h1 {
+    color: #312e28;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+h2 {
+    margin: 0px;
+    padding: 4px;
+}
+
+p {
+    color: #312e28;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    margin: 10px;
+    padding: 4px;
+}
+
+ul {
+    margin: 20px;
+    padding: 8px;
+}
